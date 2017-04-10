@@ -23,7 +23,7 @@ N/A
 [2/14](https://cli.gw2raid.tk/Raidlog/4-1/20170214-230057_cairn.html) - [3/1](https://cli.gw2raid.tk/Raidlog/4-1/20170301-000103_cairn.html) - [3/7](https://cli.gw2raid.tk/Raidlog/4-1/20170307-222949_cairn.html) - [3/14](https://cli.gw2raid.tk/Raidlog/4-1/20170314-222033_cairn.html) - [3/21](https://cli.gw2raid.tk/Raidlog/4-1/20170321-205343_cairn.html) - [3/28](https://cli.gw2raid.tk/Raidlog/4-1/20170328-204751_cairn.html) - [4/4](https://cli.gw2raid.tk/Raidlog/4-1/20170404-205516_cairn.html)
 
 ## Mursaat Overseer
-[2/14](https://cli.gw2raid.tk/Raidlog/4-2/20170214-233830_mo.html) - [3/2](https://cli.gw2raid.tk/Raidlog/4-2/20170302-212917_mo.html) - [3/7](https://cli.gw2raid.tk/Raidlog/4-2/20170307-224406_mo.html) - [3/21](https://cli.gw2raid.tk/Raidlog/4-2/20170321-210522_mo.html) - [3/28](https://cli.gw2raid.tk/Raidlog/4-2/20170328-205424_mo.html) - [4/4](https://cli.w2raid.tk/Raidlog/4-2/20170404-210416_mo.html)
+[2/14](https://cli.gw2raid.tk/Raidlog/4-2/20170214-233830_mo.html) - [3/2](https://cli.gw2raid.tk/Raidlog/4-2/20170302-212917_mo.html) - [3/7](https://cli.gw2raid.tk/Raidlog/4-2/20170307-224406_mo.html) - [3/21](https://cli.gw2raid.tk/Raidlog/4-2/20170321-210522_mo.html) - [3/28](https://cli.gw2raid.tk/Raidlog/4-2/20170328-205424_mo.html) - [4/4](https://cli.gw2raid.tk/Raidlog/4-2/20170404-210416_mo.html)
 
 ## Samarog
 [2/16](https://cli.gw2raid.tk/Raidlog/4-3/20170216-210923_sam.html) - [3/3](https://cli.gw2raid.tk/Raidlog/4-3/20170303-002408_sam.html) - [3/7](https://cli.gw2raid.tk/Raidlog/4-3/20170307-234035_sam.html) - [3/21](https://cli.gw2raid.tk/Raidlog/4-3/20170321-212024_sam.html) - [3/28](https://cli.gw2raid.tk/Raidlog/4-3/20170328-211646_sam.html) - [4/4](https://cli.gw2raid.tk/Raidlog/4-3/20170404-211542_sam.html)
